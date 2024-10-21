@@ -1,0 +1,31 @@
+[2024-10-21T05:01:44.430Z] Berhasil mengenkripsi file ./test.txt
+[2024-10-21T05:03:48.691Z] Berhasil mendekripsi file ./test.txt.encrypted
+[2024-10-21T05:24:24.859Z] Mulai mengenkripsi file ./test.txt
+[2024-10-21T05:24:24.898Z] Berhasil mengenkripsi file ./test.txt
+[2024-10-21T05:25:48.659Z] Mulai mendekripsi file ./test_encrypted.txt
+[2024-10-21T05:25:48.699Z] Berhasil mendekripsi file ./test_encrypted.txt
+[2024-10-21T05:26:11.871Z] Mulai mendekripsi file ./test_encrypted.txt
+[2024-10-21T05:26:11.908Z] Error ketika mendekripsi file: Password yang dimasukkan salah
+[2024-10-21T06:06:08.860Z] Mulai mengenkripsi file ./test.txt
+[2024-10-21T06:06:08.897Z] Berhasil mengenkripsi file ./test.txt
+[2024-10-21T06:06:32.482Z] Mulai mendekripsi file ./test_encrypted.txt
+[2024-10-21T06:06:32.521Z] Berhasil mendekripsi file ./test_encrypted.txt
+[2024-10-21T06:07:54.186Z] Mulai mendekripsi file ./test_encrypted.txt
+[2024-10-21T06:07:54.226Z] Error ketika mendekripsi file: Password yang dimasukkan salah
+[2024-10-21T06:09:09.158Z] Mulai mendekripsi file ./test_encrypted.txt
+[2024-10-21T06:09:09.196Z] Berhasil mendekripsi file ./test_encrypted.txt
+[2024-10-21T06:13:12.642Z] Mulai mendekripsi file ./test_encrypted.txt
+[2024-10-21T06:13:12.742Z] Berhasil mendekripsi file ./test_encrypted.txt
+[14:57:24] Command tidak valid. Gunakan encrypt atau decrypt
+[2024-10-21 15:03:38] Command tidak valid. Gunakan encrypt atau decrypt
+[2024-10-21 15:37:12] Mulai mengenkripsi file ./test.txt
+[2024-10-21 15:37:12] Berhasil mengenkripsi file ./test.txt
+[2024-10-21 15:37:58] Mulai mendekripsi file ./test_encrypted.txt
+[2024-10-21 15:37:58] Error ketika mendekripsi file: Password yang dimasukkan salah
+[2024-10-21 15:39:24] Mulai mendekripsi file ./test_encrypted.txt
+[2024-10-21 15:39:24] Berhasil mendekripsi file ./test_encrypted.txt
+[2024-10-21 15:40:32] Command tidak valid. Gunakan encrypt atau decrypt
+[2024-10-21 15:42:26] Mulai mendekripsi file ./tes.txt
+[2024-10-21 15:42:26] File tidak ditemukan: ./tes.txt
+[2024-10-21 15:42:26] Error ketika mendekripsi file: File tidak ditemukan: ./tes.txt
+[2024-10-21 15:45:05] Usage: ts-node index.ts <encrypt|decrypt> <filePath> <password>
